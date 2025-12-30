@@ -1,4 +1,5 @@
 # AI Story Generator (Streamlit + Google Gemini)
+**Live Demo:** [Click here to try the app](https://storysmith-ai-en4jvvx6duaq28gmuantnh.streamlit.app/)
 
 AI Story Generator is a web app that lets users sign up, log in, and generate complete short stories from simple prompts using Google Gemini models. It includes authentication, a credit system, and persistent storage using SQLite.
 
